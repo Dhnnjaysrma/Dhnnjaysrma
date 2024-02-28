@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Dhananajay Sharma</h1>
+<h1 align="center">Hi 👋, I'm Dhananjay Sharma</h1>
 <h3 align="center">I am a Front-End Developer with 2 years of experience in building user-centric and visually appealing web applications. My expertise lies in: HTML, CSS Tailwind CSS, JavaScript, React, etc. UI/UX design principles, accessibility best practices, responsive design, performance optimization, cross-browser compatibility, testing frameworks, version control systems, etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhnnjaysrma&label=Profile%20views&color=0e75b6&style=flat" alt="dhnnjaysrma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhnnjaysrma" alt="dhnnjaysrma" /></a> </p>
 
-- 📫 How to reach me **Dhananajat007ui@gmail.com**
+- 📫 How to reach me **Dhananajay007ui@gmail.com**
 
 - ⚡ Fun fact **I am from VIT Bhopal**
 
