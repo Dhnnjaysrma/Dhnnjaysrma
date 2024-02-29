@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhnnjaysrma" alt="dhnnjaysrma" /></a> </p>
 
-- 📫 How to reach me **Dhananajay007ui@gmail.com**
+- 📫 How to reach me **Dhananjay007ui@gmail.com**
 
 - ⚡ Fun fact **I am from VIT Bhopal**
 
