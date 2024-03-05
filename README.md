@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 .
 
 <h1 align="center">Hi 👋, I'm Dhananjay Sharma</h1>
 <h3 align="center">I am a Front-End Developer with 2 years of experience in building user-centric and visually appealing web applications. My expertise lies in: HTML, CSS Tailwind CSS, JavaScript, React, etc. UI/UX design principles, accessibility best practices, responsive design, performance optimization, cross-browser compatibility, testing frameworks, version control systems, etc.</h3>
