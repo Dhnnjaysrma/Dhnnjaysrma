@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Dhananjay007ui@gmail.com**
 
-- ⚡ Fun fact **I am from VIT Bhopal**
+- ⚡ Fun fact **I am from VIT Bhopal**  ..
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
